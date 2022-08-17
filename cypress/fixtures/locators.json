@@ -1,0 +1,12 @@
+{
+    "login":{
+        "emailInput": "#email",
+        "passwordInput": "#password",
+        "submitButton": "[type='submit']"
+    },
+    "header": {
+        "loginButton": ".vs-u-text--left > .vs-c-btn",
+        "logoutButton": "[class='nav-link nav-buttons']"
+        }
+        
+}
